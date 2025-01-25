@@ -24,7 +24,7 @@ Vous trouverez les détails de l'API front-end dans le fichier `API.md`.
 2. Installer les dépendances suivantes :
 	 - express
 	 - socket.io
-3. Créer un serveur HTTP **avec express**
+3. Créer un serveur HTTP **avec express**	
 4. Créer un serveur de WebSockets avec socket.io
 5. Gérer les connexions et déconnexions des utilisateurs
 6. Gérer l'envoi et la réception de messages
